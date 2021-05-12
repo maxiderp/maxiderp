@@ -1,4 +1,7 @@
-### Hi there 👋
+hey shawtys
+im a 14 year old idiot who likes tech crap
+
+he/him
 
 <!--
 **maxiderp/maxiderp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
